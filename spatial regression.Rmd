@@ -1,0 +1,50 @@
+```{r}
+
+library(sp)
+library(spdep)
+```
+
+```{r}
+data <- read.csv("缓冲区8.21.csv")
+```
+
+
+```{r}
+coordinates(data) <- ~x+y
+```
+
+
+```{r}
+nb <- dnearneigh(coordinates(data), d1=0, d2=782, bounds=c("GE", "LE"))
+```
+
+
+```{r}
+dists <- nbdists(nb, coords = coordinates(data))
+```
+
+```{r}
+inv_dists <- lapply(dists, function(d) 1/d)
+listw_inv_dist <- nb2listw(nb, glist=inv_dists, style="W")
+
+```
+
+```{r}
+install.packages("spatialreg")
+
+
+```
+```{r}
+library(spatialreg)
+
+```
+
+
+```{r}
+# 空间滞后模型
+model <- lagsarlm(deg_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)
+
+# 查看摘要
+summary(model)
+```
+
