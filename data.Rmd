@@ -1,0 +1,112 @@
+
+
+```{r}
+library(jsonlite)
+
+```
+
+
+```{r}
+# 下载站点位置数据
+# stations <- fromJSON("https://api.tfl.gov.uk/BikePoint")
+
+
+
+#read the json from the API above
+stations <- fromJSON('stations.json')
+
+# 转换为数据框
+stations_df <- as.data.frame(stations)
+
+# 提取站点的ID、名称、经度和纬度
+stations_df <- stations_df[c("id", "commonName", "lon", "lat")]
+```
+
+
+
+#load the travel record 
+```{r}
+data <- read.csv("3-27.csv")
+data1 <- read.csv("3.1_new.csv")
+data2 <- read.csv("3.6.csv")
+data3 <- read.csv("3.13.csv")
+data4 <- read.csv("3.20.csv")
+```
+
+##merge the data
+```{r}
+library(dplyr)
+```
+
+```{r}
+combined_data <- bind_rows(data, data1, data2, data3, data4)
+```
+
+```{r}
+merged_data <- left_join(combined_data, stations_df, by = c("Start.station" = "commonName"))
+```
+
+```{r}
+write.csv(merged_data,'dataset.csv', row.names = FALSE)
+```
+
+
+#processing the number of bike docks
+
+```{r}
+additional_properties <- stations$additionalProperties
+```
+
+
+```{r}
+library(purrr)
+```
+
+
+```{r}
+# abstract 'NbDocks'  in the 'additionalProperties'  
+nbDocks <- map(stations$additionalProperties, function(properties) {
+  property <- properties[properties$key == "NbDocks", ]
+  if(nrow(property) > 0) {
+    return(as.numeric(property$value))
+  } else {
+    return(NA)
+  }
+})
+```
+
+
+```{r}
+stations_df$NbDocks <- unlist(nbDocks)
+```
+
+
+```{r}
+
+# list to data frame
+list_to_df <- function(x) {
+  df <- do.call(rbind, lapply(x, function(y) {
+   
+    if(any(names(y) == "")) {
+      return(NULL)
+    }
+    else {
+      return(data.frame(matrix(unlist(y), nrow=1)))
+    }
+  }))
+  return(df)
+}
+
+```
+
+
+```{r}
+additional_properties_df <- map_dfr(additional_properties, list_to_df)
+```
+
+
+```{r}
+write.csv(stations_df,'stations.csv', row.names = FALSE)
+
+```
+

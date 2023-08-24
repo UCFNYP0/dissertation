@@ -1,11 +1,11 @@
 ```{r}
-
 library(sp)
 library(spdep)
+library(spatialreg)
 ```
 
 ```{r}
-data <- read.csv("缓冲区8.21.csv")
+data <- read.csv("buffer.csv")
 ```
 
 
@@ -13,6 +13,7 @@ data <- read.csv("缓冲区8.21.csv")
 coordinates(data) <- ~x+y
 ```
 
+spatial matrix
 
 ```{r}
 nb <- dnearneigh(coordinates(data), d1=0, d2=782, bounds=c("GE", "LE"))
@@ -29,22 +30,182 @@ listw_inv_dist <- nb2listw(nb, glist=inv_dists, style="W")
 
 ```
 
+calculate the moran's i 
+
 ```{r}
-install.packages("spatialreg")
-
-
-```
-```{r}
-library(spatialreg)
-
+residual <- read.csv("residual.csv")
 ```
 
 
 ```{r}
-# 空间滞后模型
-model <- lagsarlm(deg_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)
+##deg_morning
+residuals1 <- residual$residuals1
+moran1 <- moran.test(residuals1, listw = listw_inv_dist)
+print(moran1)
+```
+```{r}
+##deg_evening
+residuals2 <- residual$residuals2
+moran2 <- moran.test(residuals2, listw = listw_inv_dist)
+print(moran2)
 
-# 查看摘要
+
+
+##eig_morning
+residuals3 <- residual$residuals3
+moran3 <- moran.test(residuals3, listw = listw_inv_dist)
+print(moran3)
+
+
+##eig_evening
+residuals4 <- residual$residuals4
+moran4 <- moran.test(residuals4, listw = listw_inv_dist)
+print(moran4)
+```
+```{r}
+#LM Test
+
+##deg_mopeak
+
+lmodel_deg_mopeak <- lm(deg_mopeak ~docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data = data)
+
+lm_deg_mopeak <- lm.LMtests(lmodel_deg_mopeak, listw = listw_inv_dist, test="all")
+print(lm_deg_mopeak)
+
+
+##deg_nipeak
+
+
+lmodel_deg_nipeak <- lm(deg_nipeak ~docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data = data)
+
+lm_deg_nipeak <- lm.LMtests(lmodel_deg_nipeak, listw = listw_inv_dist, test="all")
+print(lm_deg_nipeak)
+
+
+##eig_mopeak
+
+
+lmodel_eig_mopeak <- lm(egi_mopeak ~docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data = data)
+
+lm_eig_mopeak <- lm.LMtests(lmodel_eig_mopeak, listw = listw_inv_dist, test="all")
+print(lm_eig_mopeak)
+
+
+##eig_nipeak
+
+
+lmodel_eig_nipeak <- lm(egi_nipeak ~docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data = data)
+
+lm_eig_nipeak <- lm.LMtests(lmodel_eig_nipeak, listw = listw_inv_dist, test="all")
+print(lm_eig_nipeak)
+
+
+
+```
+
+
+```{r}
+# SLM--degree in the morning
+model1 <- lagsarlm(deg_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)
+r2_1 <- 1 - var(residuals(model1)) / var(data$deg_mopeak)
+
+
+AIC(model1)
+
 summary(model)
 ```
+
+
+```{r}
+# SLM--degree in the evening
+model2 <- lagsarlm(deg_nipeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_2 <- 1 - var(residuals(model2)) / var(data$deg_nipeak)
+
+
+AIC(model2)
+
+
+summary(model2)
+```
+
+
+```{r}
+# SLM--eig in the morning
+model3 <- lagsarlm(egi_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_3 <- 1 - var(residuals(model3)) / var(data$egi_mopeak)
+
+
+AIC(model3)
+
+
+summary(model3)
+```
+
+
+```{r}
+
+# SLM--eig in the evening
+model4 <- lagsarlm(egi_nipeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_4 <- 1 - var(residuals(model4)) / var(data$egi_nipeak)
+
+
+AIC(model4)
+
+
+
+summary(model4)
+```
+
+
+
+
+```{r}
+# SEM--deg in the morning
+model5 <- errorsarlm(deg_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_5 <- 1 - var(residuals(model5)) / var(data$deg_mopeak)
+
+
+AIC(model5)
+
+summary(model5)
+```
+
+
+```{r}
+# SEM--deg in the evening
+model6 <- errorsarlm(deg_nipeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_6 <- 1 - var(residuals(model6)) / var(data$deg_nipeak)
+
+AIC(model6)
+
+
+
+summary(model6)
+```
+
+```{r}
+# SEM--eig in the morning
+model7 <- errorsarlm(egi_mopeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_7 <- 1 - var(residuals(model7)) / var(data$egi_mopeak)
+
+
+AIC(model7)
+
+
+
+# summary
+summary(model7)
+```
+
+```{r}
+# SEM--eig in the evening
+model8 <- errorsarlm(egi_nipeak ~ docks_num + destinatio + finance + restaurant + residence + leisure + shopping + university + population + bus_stop + tube_num + ride_len, data=data, listw=listw_inv_dist)   
+r2_8 <- 1 - var(residuals(model8)) / var(data$egi_nipeak)
+
+AIC(model8)
+
+
+summary(model8)
+```
+
 
