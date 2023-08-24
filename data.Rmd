@@ -7,7 +7,7 @@ library(jsonlite)
 
 
 ```{r}
-# 下载站点位置数据
+# 
 # stations <- fromJSON("https://api.tfl.gov.uk/BikePoint")
 
 
@@ -15,10 +15,10 @@ library(jsonlite)
 #read the json from the API above
 stations <- fromJSON('stations.json')
 
-# 转换为数据框
+# 
 stations_df <- as.data.frame(stations)
 
-# 提取站点的ID、名称、经度和纬度
+# 
 stations_df <- stations_df[c("id", "commonName", "lon", "lat")]
 ```
 
