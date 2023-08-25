@@ -1,0 +1,720 @@
+index,finance,leisure,residence,restaurant,shopping,university
+"Abbey Orchard Street, Westminster",0.00001,3,4,7,9,0.00001
+"Abbotsbury Road, Holland Park",0.00001,6,1,0.00001,0.00001,0.00001
+"Aberdeen Place, St. John's Wood",0.00001,4,2,4,7,0.00001
+"Aberfeldy Street, Poplar",1,1,0.00001,0.00001,3,0.00001
+"Abingdon Green, Westminster",1,9,4,3,2,0.00001
+"Abingdon Villas, Kensington",0.00001,5,4,3,6,0.00001
+"Ackroyd Drive, Bow",0.00001,9,0.00001,0.00001,1,0.00001
+"Ada Street, Hackney Central",1,2,0.00001,5,11,0.00001
+"Addison Road, Holland Park",0.00001,0.00001,3,0.00001,0.00001,0.00001
+"Aintree Street, Fulham",0.00001,0.00001,0.00001,0.00001,3,0.00001
+"Albany Street, The Regent's Park",1,4,3,0.00001,10,0.00001
+"Albert Bridge Road, Battersea Park",1,1,2,1,7,0.00001
+"Albert Embankment, Vauxhall",2,0.00001,1,2,0.00001,0.00001
+"Albert Gardens, Stepney",0.00001,1,0.00001,0.00001,2,0.00001
+"Albert Gate, Hyde Park",0.00001,2,3,5,5,0.00001
+"Albert Square, Stockwell",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Alderney Street, Pimlico",0.00001,4,5,1,11,0.00001
+"Aldersgate Street, Barbican",0.00001,5,0.00001,2,7,1
+"Alfreda Street, Battersea Park",2,0.00001,0.00001,3,8,0.00001
+"All Saints Church, Portobello",1,2,1,9,29,0.00001
+"All Saints' Road, Portobello",1,6,4,4,12,0.00001
+"Allington Street, Victoria",4,6,2,22,15,0.00001
+"Alma Road, Wandsworth",2,3,1,1,7,0.00001
+"Alpha Grove, Millwall",0.00001,0.00001,1,0.00001,2,0.00001
+"Ampton Street , Clerkenwell",1,0.00001,2,1,0.00001,0.00001
+"Ansell House, Stepney",2,3,4,4,4,0.00001
+"Antill Road, Mile End",1,7,1,0.00001,1,0.00001
+"Archbishop's Park, Waterloo",0.00001,12,0.00001,0.00001,1,0.00001
+"Argyll Road, Kensington",7,6,2,10,22,0.00001
+"Arlington Road, Camden Town",4,4,3,19,36,0.00001
+"Arundel Street, Temple",1,14,5,1,0.00001,0.00001
+"Ashley Crescent, Battersea",3,9,0.00001,15,18,0.00001
+"Ashley Place, Victoria",0.00001,0.00001,1,2,4,0.00001
+"Ashmole Estate, Oval",0.00001,5,0.00001,0.00001,1,0.00001
+"Aston Street, Stepney",0.00001,4,1,0.00001,1,0.00001
+"Austin Road, Battersea Park",0.00001,2,0.00001,3,4,0.00001
+"Baker Street, Marylebone",2,8,9,17,38,0.00001
+"Baldwin Street, St. Luke's",6,2,2,7,13,0.00001
+"Bancroft Road, Bethnal Green",0.00001,0.00001,1,0.00001,2,0.00001
+"Bank of England Museum, Bank",9,11,10,9,15,1
+"Bankside Mix, Bankside",2,4,1,5,4,0.00001
+"Barbican Centre, Barbican",0.00001,22,1,7,1,0.00001
+"Barons Court Station, West Kensington",2,1,2,0.00001,0.00001,0.00001
+"Bath Street, St. Luke's",1,3,0.00001,3,1,0.00001
+"Battersea Church Road, Battersea",0.00001,0.00001,1,1,1,0.00001
+"Battersea Park Road, Nine Elms",0.00001,1,0.00001,0.00001,1,0.00001
+"Battersea Power Station, Battersea Park",0.00001,5,0.00001,9,2,0.00001
+"Bayley Street , Bloomsbury",6,3,13,7,6,0.00001
+"Baylis Road, Waterloo",5,6,0.00001,11,11,0.00001
+"Bayswater Road, Hyde Park",0.00001,1,1,5,2,0.00001
+"BBC White City, White City",0.00001,1,0.00001,2,3,0.00001
+"Beaumont Street, Marylebone",0.00001,4,8,4,18,0.00001
+"Bedford Way, Bloomsbury",2,6,14,6,3,7
+"Belford House, Haggerston",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Belgrave Road, Victoria",2,6,8,4,6,0.00001
+"Belgrave Square, Belgravia",0.00001,6,6,0.00001,0.00001,0.00001
+"Belgrove Street , King's Cross",8,9,29,9,11,0.00001
+"Bell Lane, Liverpool Street",3,17,1,18,13,2
+"Bell Street , Marylebone",1,1,1,2,7,0.00001
+"Belvedere Road 1, South Bank",0.00001,11,1,14,2,0.00001
+"Belvedere Road 2, South Bank",1,0.00001,0.00001,1,0.00001,0.00001
+"Bermondsey Station, Bermondsey",1,1,0.00001,0.00001,7,0.00001
+"Bermondsey Street, Bermondsey",2,8,2,13,9,0.00001
+"Berry Street, Clerkenwell",0.00001,6,1,3,1,1
+"Beryl Road, Hammersmith",0.00001,0.00001,0.00001,3,1,0.00001
+"Bethnal Green Garden, Bethnal Green",1,2,0.00001,1,0.00001,0.00001
+"Bethnal Green Road, Shoreditch",1,9,0.00001,8,4,0.00001
+"Bevington Road West, North Kensington",1,8,0.00001,8,22,0.00001
+"Binfield Road, Stockwell",2,3,0.00001,1,5,0.00001
+"Birkenhead Street, King's Cross",3,1,2,6,5,0.00001
+"Bishop's Avenue, Fulham",0.00001,1,0.00001,0.00001,1,0.00001
+"Bishop's Bridge Road East, Bayswater",0.00001,1,1,0.00001,0.00001,0.00001
+"Bishop's Bridge Road West, Bayswater",0.00001,4,0.00001,12,11,0.00001
+"Black Lion Gate, Kensington Gardens",0.00001,7,5,12,7,0.00001
+"Black Prince Road, Vauxhall",0.00001,2,0.00001,0.00001,2,0.00001
+"Blackfriars Road, Southwark",1,1,0.00001,7,2,0.00001
+"Blackfriars Station, St. Paul's",2,4,4,5,1,0.00001
+"Blenheim Crescent, Ladbroke Grove",0.00001,0.00001,2,4,9,0.00001
+"Blythe Road West, Shepherd's Bush",0.00001,4,2,6,6,0.00001
+"Blythe Road, Olympia",0.00001,1,0.00001,4,8,0.00001
+"Bolsover Street, Fitzrovia",1,4,9,4,4,0.00001
+"Bonner Gate, Victoria Park",0.00001,9,0.00001,0.00001,1,0.00001
+"Bonny Street, Camden Town",0.00001,2,2,3,5,0.00001
+"Borough High Street, The Borough",0.00001,1,2,3,6,0.00001
+"Borough Road, Elephant & Castle",1,1,0.00001,0.00001,3,0.00001
+"Boston Place, Marylebone",2,2,5,0.00001,7,0.00001
+"Bourne Street, Belgravia",0.00001,4,3,2,2,0.00001
+"Bouverie Street, Temple",0.00001,4,9,5,1,0.00001
+"Bow Church Station, Bow",1,4,3,1,6,0.00001
+"Bow Road Station, Bow",0.00001,1,2,0.00001,0.00001,0.00001
+"Braham Street, Aldgate",2,8,2,12,4,0.00001
+"Bramham Gardens, Earl's Court",0.00001,2,1,8,7,0.00001
+"Brandon Street, Walworth",0.00001,1,1,0.00001,1,0.00001
+"Breams Buildings, Holborn",0.00001,3,1,6,2,0.00001
+"Brick Lane Market, Shoreditch",2,9,1,0.00001,6,0.00001
+"Bricklayers Arms, Borough",0.00001,1,0.00001,0.00001,2,0.00001
+"Bridge Avenue, Hammersmith",3,0.00001,0.00001,5,11,0.00001
+"British Museum, Bloomsbury",0.00001,5,20,6,5,0.00001
+"Broadcasting House, Marylebone",0.00001,6,16,3,6,0.00001
+"Broadley Terrace, Marylebone",0.00001,0.00001,1,1,3,0.00001
+"Broadwick Street, Soho",1,7,13,24,23,0.00001
+"Bromley High Street, Bow",0.00001,6,0.00001,0.00001,0.00001,0.00001
+"Brook Green South, Brook Green",0.00001,6,1,3,4,0.00001
+"Brunswick Square, Bloomsbury",2,2,1,3,3,0.00001
+"Brushfield Street, Liverpool Street",6,10,1,15,3,1
+"Bruton Street, Mayfair",1,4,9,7,37,0.00001
+"Buckingham Gate, Westminster",0.00001,5,0.00001,8,7,0.00001
+"Bunhill Row, Moorgate",0.00001,2,1,0.00001,1,0.00001
+"Burdett Road, Mile End",1,1,0.00001,0.00001,0.00001,0.00001
+"Burgess Park Albany Road, Walworth",0.00001,7,0.00001,7,11,0.00001
+"Bury Place, Holborn",4,2,1,5,3,1
+"Butler Place, Westminster",0.00001,3,0.00001,1,1,0.00001
+"Buxton Street 1, Shoreditch",0.00001,2,0.00001,0.00001,2,0.00001
+"Cadogan Close, Victoria Park",0.00001,4,1,0.00001,0.00001,0.00001
+"Cadogan Gardens, Chelsea",3,8,3,10,48,0.00001
+"Cadogan Place, Knightsbridge",0.00001,0.00001,3,1,5,0.00001
+"Caldwell Street, Stockwell",0.00001,0.00001,0.00001,0.00001,4,0.00001
+"Calshot Street , King's Cross",0.00001,5,3,5,5,0.00001
+"Campden Hill Road, Notting Hill",0.00001,0.00001,7,2,2,0.00001
+"Canada Water Station, Rotherhithe",0.00001,1,0.00001,1,0.00001,0.00001
+"Canton Street, Poplar",1,0.00001,0.00001,1,2,0.00001
+"Carey Street, Holborn",2,2,0.00001,1,1,0.00001
+"Carnegie Street, King's Cross",0.00001,11,0.00001,0.00001,5,0.00001
+"Cartwright Gardens , Bloomsbury",0.00001,1,11,4,5,0.00001
+"Castlehaven Road, Camden Town",1,9,1,1,5,0.00001
+"Central House, Aldgate",1,7,1,8,9,1
+"Cephas Street, Bethnal Green",1,0.00001,0.00001,1,2,0.00001
+"Chadwell Street, Angel",1,8,1,5,3,0.00001
+"Chapel Place, Marylebone",2,7,9,7,44,0.00001
+"Charing Cross Hospital, Hammersmith",0.00001,0.00001,2,1,0.00001,0.00001
+"Charlbert Street, St. John's Wood",1,5,0.00001,3,17,0.00001
+"Charles II Street, West End",3,15,4,32,13,1
+"Charlotte Street, Fitzrovia",2,13,3,16,4,0.00001
+"Charlotte Terrace, Angel",0.00001,2,0.00001,0.00001,3,0.00001
+"Cheapside, Bank",8,5,6,18,7,0.00001
+"Chelsea Bridge, Pimlico",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Chelsea Green, Chelsea",1,2,1,6,18,0.00001
+"Chepstow Villas, Notting Hill",0.00001,3,2,1,9,0.00001
+"Cheshire Street, Bethnal Green",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Chicheley Street, South Bank",1,5,6,7,6,0.00001
+"Chrisp Street Market, Poplar",2,10,1,2,10,1
+"Christopher Street, Liverpool Street",0.00001,7,3,7,0.00001,0.00001
+"City Road, Angel",1,1,0.00001,2,5,0.00001
+"Clapham Common North Side, Clapham Common",0.00001,1,2,0.00001,1,0.00001
+"Clapham Common Station, Clapham Common",4,8,1,12,8,0.00001
+"Clapham Road, Lingham Street, Stockwell",0.00001,0.00001,0.00001,1,6,0.00001
+"Claremont Square, Angel",1,2,2,2,5,1
+"Clarence Walk, Stockwell",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Clarendon Road, Avondale",0.00001,2,1,1,2,0.00001
+"Clarges Street, Mayfair",2,4,15,25,17,0.00001
+"Clarkson Street, Bethnal Green",2,2,0.00001,0.00001,3,0.00001
+"Claverton Street, Pimlico",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Cleaver Street, Kennington",0.00001,6,1,8,10,0.00001
+"Clerkenwell Green, Clerkenwell",1,3,2,5,3,0.00001
+"Cleveland Gardens, Bayswater",0.00001,1,1,0.00001,3,0.00001
+"Cleveland Way, Stepney",1,0.00001,0.00001,0.00001,2,0.00001
+"Clifford Street, Mayfair",0.00001,3,6,8,37,0.00001
+"Clifton Road, Maida Vale",0.00001,1,0.00001,1,3,0.00001
+"Clifton Street, Shoreditch",1,3,1,4,1,0.00001
+"Clinton Road, Mile End",2,13,2,0.00001,0.00001,0.00001
+"Cloudesley Road, Angel",1,1,1,4,5,0.00001
+"Collingham Gardens, Earl's Court",0.00001,0.00001,3,0.00001,0.00001,0.00001
+"Columbia Road, Shoreditch",3,0.00001,0.00001,0.00001,4,0.00001
+"Commercial Street, Shoreditch",1,7,4,4,6,0.00001
+"Concert Hall Approach 1, South Bank",0.00001,0.00001,1,2,0.00001,0.00001
+"Coomer Place, West Kensington",2,3,0.00001,3,11,0.00001
+"Copper Box Arena, Queen Elizabeth Olympic Park",0.00001,5,2,10,0.00001,0.00001
+"Coram Street, Bloomsbury",0.00001,1,0.00001,1,1,0.00001
+"Cotton Garden Estate, Kennington",0.00001,0.00001,0.00001,3,3,0.00001
+"Courland Grove, Wandsworth Road",0.00001,3,0.00001,1,6,0.00001
+"Crabtree Lane, Fulham",3,0.00001,0.00001,1,4,0.00001
+"Cranmer Road, Stockwell",0.00001,1,1,8,11,0.00001
+"Craven Street, Strand",7,23,10,14,22,0.00001
+"Crawford Street, Marylebone",0.00001,3,5,9,3,0.00001
+"Crimscott Street, Bermondsey",0.00001,1,0.00001,1,2,0.00001
+"Crinan Street, King's Cross",0.00001,4,1,3,5,0.00001
+"Crisp Road, Hammersmith",0.00001,1,0.00001,0.00001,1,0.00001
+"Cromer Street, Bloomsbury",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Crosswall, Tower",4,12,4,17,5,0.00001
+"Curlew Street, Shad Thames",0.00001,2,2,6,2,0.00001
+"Danvers Street, West Chelsea",0.00001,4,4,1,0.00001,0.00001
+"De Vere Gardens, Kensington",0.00001,5,3,5,1,0.00001
+"Denyer Street, Knightsbridge",0.00001,2,2,4,27,0.00001
+"Derry Street, Kensington",0.00001,6,8,13,34,0.00001
+"Devons Road, Bow",0.00001,3,2,0.00001,0.00001,0.00001
+"Devonshire Square, Liverpool Street",5,17,4,12,5,0.00001
+"Devonshire Terrace, Bayswater",0.00001,2,4,3,7,0.00001
+"Dickens Square, Borough",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Disraeli Road, Putney",4,0.00001,2,0.00001,1,0.00001
+"Dock Street, Wapping",0.00001,4,0.00001,0.00001,2,0.00001
+"Doddington Grove, Kennington",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Doric Way , Somers Town",6,5,1,7,6,0.00001
+"Dorothy Road, Clapham Junction",2,3,1,5,5,0.00001
+"Dorset Square, Marylebone",0.00001,3,1,5,4,0.00001
+"Drayton Gardens, West Chelsea",0.00001,3,5,10,13,0.00001
+"Drummond Street , Euston",0.00001,0.00001,2,2,3,0.00001
+"Drury Lane, Covent Garden",1,5,1,5,7,0.00001
+"Duke Street Hill, London Bridge",2,10,2,8,13,0.00001
+"Dunston Road , Haggerston",0.00001,1,0.00001,0.00001,2,0.00001
+"Durant Street, Bethnal Green",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Eagle Wharf Road, Hoxton",0.00001,2,0.00001,1,1,1
+"Earnshaw Street , Covent Garden",4,5,5,14,7,0.00001
+"East Ferry Road, Cubitt Town",1,6,0.00001,0.00001,3,0.00001
+"East India DLR, Blackwall",1,3,1,2,3,0.00001
+"East Road, Hoxton",1,2,0.00001,1,4,0.00001
+"East Village, Queen Elizabeth Olympic Park",2,10,2,3,4,0.00001
+"Eastbourne Mews, Paddington",3,4,1,2,4,0.00001
+"Eaton Square (South), Belgravia",0.00001,0.00001,9,0.00001,0.00001,0.00001
+"Eaton Square, Belgravia",0.00001,5,8,0.00001,0.00001,0.00001
+"Ebury Bridge, Pimlico",0.00001,3,0.00001,0.00001,2,0.00001
+"Eccleston Place, Victoria",4,5,5,3,8,0.00001
+"Edgware Road Station, Marylebone",2,10,2,5,14,0.00001
+"Eel Brook Common, Walham Green",0.00001,0.00001,1,1,0.00001,0.00001
+"Elizabeth Bridge, Victoria",0.00001,1,0.00001,0.00001,1,0.00001
+"Elysium Place, Fulham",0.00001,0.00001,0.00001,0.00001,4,0.00001
+"Embankment (Savoy), Strand",1,4,5,7,7,0.00001
+"Emperor's Gate, South Kensington",0.00001,1,1,9,6,1
+"Empire Square, The Borough",1,2,1,1,4,0.00001
+"Endsleigh Gardens, Euston",1,3,10,3,1,0.00001
+"Erin Close, Walham Green",4,2,0.00001,6,5,0.00001
+"Esmond Street, Putney",0.00001,1,1,0.00001,0.00001,0.00001
+"Ethelburga Estate, Battersea Park",0.00001,1,3,1,0.00001,0.00001
+"Euston Road, Euston",2,5,2,1,2,3
+"Eversholt Street , Camden Town",0.00001,0.00001,2,0.00001,5,0.00001
+"Evesham Street, Avondale",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Exhibition Road Museums 1, South Kensington",0.00001,2,4,6,3,0.00001
+"Exhibition Road Museums 2, South Kensington",0.00001,2,0.00001,5,8,0.00001
+"Exhibition Road, Knightsbridge",0.00001,3,0.00001,2,1,0.00001
+"Falcon Road, Clapham Junction",2,5,0.00001,4,7,0.00001
+"Falkirk Street, Hoxton",4,2,0.00001,7,5,0.00001
+"Fanshaw Street, Hoxton",1,3,0.00001,1,2,0.00001
+"Farm Street, Mayfair",0.00001,1,1,0.00001,5,0.00001
+"Farringdon Lane, Clerkenwell",1,1,1,4,2,0.00001
+"Farringdon Street, Holborn",2,11,1,5,0.00001,0.00001
+"Fashion Street, Whitechapel",4,4,1,2,1,0.00001
+"Fawcett Close, Battersea",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Felsham Road, Putney",3,3,2,3,2,0.00001
+"Ferndale Road, Brixton",5,8,1,7,10,0.00001
+"Finlay Street, Fulham",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Finnis Street, Bethnal Green",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Finsbury Circus, Liverpool Street",4,0.00001,5,6,9,0.00001
+"Finsbury Leisure Centre, St. Luke's",1,0.00001,0.00001,2,1,1
+"Finsbury Library , Finsbury",1,2,0.00001,0.00001,2,0.00001
+"Finsbury Square , Moorgate",2,0.00001,1,2,3,0.00001
+"Fire Brigade Pier, Vauxhall",0.00001,6,0.00001,0.00001,1,0.00001
+"Fisherman's Walk West, Canary Wharf",0.00001,23,1,6,22,0.00001
+"Flamborough Street, Limehouse",2,1,1,1,3,1
+"Flood Street, Chelsea",2,2,2,9,29,0.00001
+"Foley Street, Fitzrovia",1,7,3,12,7,0.00001
+"Ford Road, Old Ford",0.00001,1,0.00001,2,10,0.00001
+"Fore Street Avenue, Guildhall",0.00001,5,3,3,0.00001,0.00001
+"Fore Street, Guildhall",1,2,0.00001,0.00001,0.00001,1
+"Fournier Street, Whitechapel",1,1,0.00001,0.00001,1,0.00001
+"Frampton Street, Paddington",0.00001,2,0.00001,5,9,0.00001
+"Freston Road, Avondale",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Frith Street, Soho",3,12,15,37,10,0.00001
+"Fulham Broadway, Walham Green",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Fulham Park Road, Fulham",2,1,0.00001,1,1,0.00001
+"Furze Green, Bow",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Garnet Street, Shadwell",0.00001,1,0.00001,0.00001,1,0.00001
+"Gas Holders, Battersea Park",0.00001,2,1,1,6,0.00001
+"Gascoyne Road, Victoria Park",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Gauden Road, Clapham",0.00001,5,0.00001,4,8,0.00001
+"Gaywood  Street, Elephant & Castle",0.00001,1,0.00001,0.00001,2,0.00001
+"George Place Mews, Marylebone",0.00001,2,4,4,5,0.00001
+"George Row, Bermondsey",0.00001,0.00001,1,2,1,0.00001
+"George Street, Marylebone",3,5,6,7,17,0.00001
+"Geraldine Street, Elephant & Castle",0.00001,2,3,0.00001,0.00001,0.00001
+"Globe Town Market, Bethnal Green",4,1,0.00001,1,3,0.00001
+"Gloucester Avenue, Camden Town",0.00001,3,2,1,0.00001,0.00001
+"Gloucester Road (Central), South Kensington",0.00001,0.00001,2,4,7,0.00001
+"Gloucester Road (North), Kensington",0.00001,4,2,7,7,0.00001
+"Gloucester Road Station, South Kensington",1,0.00001,2,10,4,0.00001
+"Gloucester Street, Pimlico",1,3,12,2,4,0.00001
+"Gloucester Terrace, Bayswater",0.00001,1,0.00001,2,1,0.00001
+"Godliman Street, St. Paul's",1,7,6,5,4,0.00001
+"Golden Lane, Barbican",2,1,1,2,4,0.00001
+"Golden Square, Soho",2,8,9,48,25,0.00001
+"Goldsmith's Row, Haggerston",0.00001,1,0.00001,1,2,0.00001
+"Good's Way, King's Cross",0.00001,6,0.00001,11,21,0.00001
+"Goswell Road (City Uni), Finsbury",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Gower Place , Euston",1,1,2,0.00001,1,0.00001
+"Grafton Street, Mayfair",0.00001,0.00001,0.00001,3,2,0.00001
+"Graham Street, Angel",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Granby Street, Shoreditch",0.00001,1,0.00001,5,4,0.00001
+"Grant Road East, Clapham Junction",0.00001,1,0.00001,0.00001,1,0.00001
+"Great Dover Street, The Borough",0.00001,1,1,0.00001,2,0.00001
+"Great Percy Street, Clerkenwell",1,0.00001,4,3,2,0.00001
+"Great Russell Street, Bloomsbury",0.00001,1,2,1,0.00001,1
+"Great Suffolk Street, The Borough",0.00001,5,1,2,2,1
+"Great Titchfield Street, Fitzrovia",0.00001,3,0.00001,5,2,0.00001
+"Great Tower Street, Monument",5,8,5,18,19,0.00001
+"Green Park Station, Mayfair",2,1,2,4,3,0.00001
+"Green Street, Mayfair",2,5,3,4,3,0.00001
+"Greenberry Street, St.John's Wood",0.00001,5,1,4,14,0.00001
+"Greenland Road, Camden Town",5,3,0.00001,3,8,0.00001
+"Greycoat Street , Westminster",0.00001,2,0.00001,2,2,0.00001
+"Grosvenor Crescent, Belgravia",2,1,2,1,0.00001,0.00001
+"Grosvenor Square, Mayfair",0.00001,10,4,6,9,1
+"Grove End Road, St. John's Wood",0.00001,2,2,0.00001,0.00001,0.00001
+"Guildhouse Street, Victoria",1,0.00001,10,1,0.00001,0.00001
+"Guilford Street , Bloomsbury",0.00001,3,1,2,8,0.00001
+"Gunmakers Lane, Old Ford",0.00001,4,0.00001,0.00001,1,0.00001
+"Gwendwr Road, West Kensington",1,1,5,1,4,0.00001
+"Haggerston Road, Haggerston",2,0.00001,1,0.00001,1,0.00001
+"Hammersmith Road, Hammersmith",0.00001,4,0.00001,2,1,0.00001
+"Hampstead Road, Euston",3,5,0.00001,2,2,0.00001
+"Hampton Street, Walworth",0.00001,0.00001,0.00001,6,6,0.00001
+"Handyside Street, King's Cross",0.00001,2,0.00001,2,8,0.00001
+"Hansard Mews, Holland Park",1,1,0.00001,1,3,0.00001
+"Harcourt Terrace, West Brompton",0.00001,0.00001,2,0.00001,0.00001,0.00001
+"Hardwick Street, Clerkenwell",0.00001,3,2,2,1,0.00001
+"Harford Street, Mile End",1,0.00001,1,0.00001,1,0.00001
+"Harper Road, The Borough",0.00001,1,1,1,0.00001,0.00001
+"Harriet Street, Knightsbridge",0.00001,1,0.00001,9,46,0.00001
+"Harrington Square 1, Camden Town",0.00001,2,3,1,0.00001,0.00001
+"Harris Academy, Bermondsey",0.00001,0.00001,0.00001,2,1,0.00001
+"Harrowby Street, Marylebone",1,11,4,8,6,0.00001
+"Hartington Road, Stockwell",0.00001,1,0.00001,0.00001,2,0.00001
+"Hatton Garden, Holborn",7,0.00001,2,3,38,0.00001
+"Hatton Wall, Holborn",0.00001,1,0.00001,5,12,0.00001
+"Hawley Crescent, Camden Town",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Heath Road, Battersea",0.00001,1,0.00001,0.00001,1,0.00001
+"Here East North, Queen Elizabeth Olympic Park",1,3,0.00001,0.00001,0.00001,1
+"Hereford Road, Bayswater",1,1,0.00001,14,17,0.00001
+"Hermitage Court, Wapping",0.00001,2,0.00001,0.00001,2,0.00001
+"Heron Quays DLR, Canary Wharf",4,4,0.00001,8,0.00001,0.00001
+"Hertford Road, De Beauvoir Town",0.00001,1,0.00001,3,0.00001,0.00001
+"Hewison Street, Old Ford",1,1,2,1,1,0.00001
+"Hibbert Street, Battersea",1,0.00001,0.00001,1,4,0.00001
+"High Holborn , Covent Garden",0.00001,1,0.00001,1,1,0.00001
+"Hinde Street, Marylebone",2,7,6,15,14,0.00001
+"Holborn Circus, Holborn",1,2,1,1,0.00001,0.00001
+"Holland Park, Kensington",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Hollybush Gardens, Bethnal Green",2,0.00001,0.00001,3,4,0.00001
+"Holy Trinity Brompton, Knightsbridge",1,3,7,5,10,0.00001
+"Hop Exchange, The Borough",3,5,4,18,9,2
+"Horseferry Road, Westminster",1,1,1,2,2,0.00001
+"Hortensia Road, West Brompton",0.00001,3,1,1,11,0.00001
+"Houghton Street, Strand",2,8,1,6,2,0.00001
+"Houndsditch, Aldgate",1,5,3,2,1,0.00001
+"Howick Place, Westminster",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Howland Street, Fitzrovia",0.00001,2,2,0.00001,0.00001,0.00001
+"Hoxton Station, Hoxton",0.00001,1,1,0.00001,2,0.00001
+"Hoxton Street, Hoxton",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Humbolt Road, Fulham",0.00001,0.00001,0.00001,1,1,0.00001
+"Hurlingham Park, Parsons Green",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Ilchester Gardens, Bayswater",0.00001,1,1,3,5,0.00001
+"Ilchester Place, Kensington",0.00001,1,5,0.00001,0.00001,0.00001
+"Imperial College, Knightsbridge",1,1,9,1,2,0.00001
+"Imperial Wharf Station, Sands End",2,4,1,1,1,0.00001
+"Import Dock, Canary Wharf",6,4,2,10,16,0.00001
+"Ingrave Street, Clapham Junction",0.00001,2,0.00001,0.00001,2,0.00001
+"Irene Road, Parsons Green",0.00001,2,0.00001,3,7,0.00001
+"Islington Green, Angel",3,13,4,35,9,0.00001
+"Jewry Street, Aldgate",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Jubilee Crescent, Cubitt Town",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Jubilee Plaza, Canary Wharf",6,10,0.00001,12,14,0.00001
+"Jubilee Street, Stepney",1,1,0.00001,0.00001,0.00001,0.00001
+"Kennington Lane Rail Bridge, Vauxhall",3,7,0.00001,4,7,0.00001
+"Kennington Oval, Oval",1,4,2,0.00001,1,0.00001
+"Kennington Road  , Vauxhall",0.00001,2,2,2,4,0.00001
+"Kennington Road Post Office, Oval",1,1,1,2,3,1
+"Kennington Station, Kennington",0.00001,1,0.00001,0.00001,1,0.00001
+"Kensington Church Street, Kensington",1,4,3,6,14,0.00001
+"Kensington Gore, Knightsbridge",0.00001,3,2,1,0.00001,0.00001
+"Kensington Olympia Station, Olympia",0.00001,1,1,0.00001,1,0.00001
+"Kensington Town Hall, Kensington",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Killick Street, King's Cross",0.00001,3,1,3,4,0.00001
+"King Edward Street, St Pauls",2,8,10,3,5,0.00001
+"King Edward Walk, Waterloo",0.00001,3,1,1,4,0.00001
+"Kingsway, Covent Garden",0.00001,0.00001,1,4,1,0.00001
+"Knaresborough Place, Earl's Court",2,5,4,6,10,1
+"Ladbroke Grove Central, Ladbroke Grove",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Lambeth North Station, Waterloo",1,3,2,6,9,0.00001
+"Lambeth Palace Road, Waterloo",1,7,0.00001,2,2,1
+"Lambeth Road, Vauxhall",0.00001,1,1,2,1,0.00001
+"Lancaster Drive, Blackwall",0.00001,2,0.00001,0.00001,1,0.00001
+"Lancaster Gate , Bayswater",0.00001,0.00001,3,0.00001,0.00001,0.00001
+"Langdon Park, Poplar",0.00001,1,1,0.00001,1,0.00001
+"Lansdowne Drive, Hackney Central",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Lansdowne Road, Ladbroke Grove",1,2,2,2,4,0.00001
+"Lansdowne Walk, Ladbroke Grove",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Lavington Street, Bankside",0.00001,2,0.00001,3,0.00001,0.00001
+"Lee Valley VeloPark, Queen Elizabeth Olympic Park",0.00001,4,0.00001,0.00001,0.00001,0.00001
+"Leman Street, Aldgate",1,1,0.00001,1,2,0.00001
+"Leonard Circus , Shoreditch",3,3,0.00001,5,1,0.00001
+"Lexham Gardens, Kensington",0.00001,2,3,0.00001,8,0.00001
+"Lightermans Road, Millwall",1,6,1,3,3,1
+"Limburg Road, Clapham Junction",2,6,1,18,17,0.00001
+"Limerston Street, West Chelsea",1,1,0.00001,5,8,0.00001
+"Lincoln's Inn Fields, Holborn",1,2,3,9,7,0.00001
+"Lindfield Street, Poplar",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Little Argyll Street, West End",4,11,5,18,29,3
+"Little Brook Green, Brook Green",2,2,0.00001,1,2,0.00001
+"Liverpool Road (N1 Centre), Angel",8,2,0.00001,6,12,0.00001
+"LMU Commercial Road, Whitechapel",0.00001,1,0.00001,2,1,0.00001
+"Lollard Street, Vauxhall",0.00001,3,0.00001,0.00001,1,0.00001
+"London Fields, Hackney Central",0.00001,1,0.00001,2,3,0.00001
+"London Street, Paddington",2,4,7,4,14,0.00001
+"London Zoo Car Park, The Regent's Park",0.00001,2,2,0.00001,0.00001,0.00001
+"London Zoo,  The Regent's Park",0.00001,8,0.00001,0.00001,1,0.00001
+"Long Lane , Bermondsey",1,0.00001,0.00001,1,5,0.00001
+"Longford Street, The Regent's Park",0.00001,4,2,0.00001,0.00001,0.00001
+"Lord's, St. John's Wood",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Lots Road, West Chelsea",0.00001,1,0.00001,1,1,0.00001
+"Lower Thames Street, Monument",1,1,3,0.00001,2,0.00001
+"LSBU (Borough Road), Elephant & Castle",0.00001,3,1,2,1,0.00001
+"Macclesfield Rd, St Lukes",0.00001,2,0.00001,0.00001,1,0.00001
+"Maida Vale, Maida Vale",2,2,0.00001,1,4,0.00001
+"Malet Street, Bloomsbury",1,3,7,0.00001,1,3
+"Mallory Street, Marylebone",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Manbre Road, Hammersmith",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Manresa Road, Chelsea",0.00001,1,8,7,10,1
+"Maplin Street, Mile End",0.00001,1,0.00001,0.00001,3,0.00001
+"Marylebone Lane, Marylebone",1,2,0.00001,1,14,0.00001
+"Merchant Street, Bow",1,0.00001,2,0.00001,1,0.00001
+"Mexfield Road, East Putney",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Michael Road, Walham Green",1,0.00001,0.00001,2,0.00001,0.00001
+"Mile End Park Leisure Centre, Mile End",2,7,0.00001,0.00001,2,0.00001
+"Mile End Stadium, Mile End",0.00001,4,1,0.00001,0.00001,0.00001
+"Millbank Tower, Pimlico",0.00001,1,0.00001,1,0.00001,0.00001
+"Millennium Hotel, Mayfair",0.00001,2,1,3,5,0.00001
+"Millharbour, Millwall",0.00001,1,0.00001,1,0.00001,0.00001
+"Milroy Walk, South Bank",2,3,0.00001,2,3,0.00001
+"Monier Road, Hackney Wick",0.00001,7,0.00001,2,6,0.00001
+"Montpelier Street, Knightsbridge",5,7,2,15,43,0.00001
+"Monument Street, Monument",0.00001,0.00001,0.00001,0.00001,0.00001,0.00001
+"Moor Street, Soho",0.00001,2,1,4,6,0.00001
+"Moorfields, Moorgate",3,0.00001,0.00001,0.00001,1,0.00001
+"Morie Street, Wandsworth",1,2,0.00001,0.00001,4,0.00001
+"Mostyn Grove, Bow",0.00001,1,0.00001,0.00001,1,0.00001
+"Mudchute DLR, Cubitt Town",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Murray Grove , Hoxton",0.00001,3,0.00001,1,7,0.00001
+"Museum of London, Barbican",0.00001,2,4,1,2,0.00001
+"Napier Avenue, Millwall",0.00001,2,0.00001,1,0.00001,0.00001
+"Natural History Museum, South Kensington",0.00001,2,2,1,3,0.00001
+"Naval Row, Blackwall",2,4,0.00001,1,4,0.00001
+"Nesham Street, Wapping",0.00001,2,0.00001,1,0.00001,0.00001
+"Nevern Place, Earl's Court",1,7,0.00001,15,18,0.00001
+"Neville Gill Close, Wandsworth",4,9,1,8,24,0.00001
+"New Cavendish Street, Marylebone",0.00001,2,13,2,4,0.00001
+"New Fetter Lane, Holborn",0.00001,1,0.00001,0.00001,4,0.00001
+"New Globe Walk, Bankside",0.00001,6,1,3,1,1
+"New Kent Road, The Borough",1,4,0.00001,2,4,0.00001
+"New North Road 2, Hoxton",0.00001,1,0.00001,0.00001,1,0.00001
+"New Road 1 , Whitechapel",2,4,0.00001,5,9,0.00001
+"Newby Place, Poplar",0.00001,1,0.00001,1,2,0.00001
+"Newgate Street , St. Paul's",0.00001,2,1,0.00001,0.00001,0.00001
+"Newton Street, Covent Garden",0.00001,0.00001,1,1,0.00001,0.00001
+"Normand Park, West Kensington",0.00001,2,0.00001,1,0.00001,0.00001
+"Normandy Road, Stockwell",0.00001,1,1,0.00001,0.00001,0.00001
+"North Audley Street, Mayfair",0.00001,0.00001,1,2,5,0.00001
+"North Wharf Road, Paddington",0.00001,4,0.00001,4,1,0.00001
+"Northdown Street, King's Cross",0.00001,3,0.00001,5,1,0.00001
+"Northfields, Wandsworth",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Northington Street , Holborn",3,2,3,6,3,1
+"Northumberland Avenue, Strand",2,5,9,1,5,0.00001
+"Norton Folgate, Liverpool Street",3,2,0.00001,3,2,0.00001
+"Notting Hill Gate Station, Notting Hill",2,7,3,11,30,0.00001
+"Nutford Place, Marylebone",1,2,2,4,1,0.00001
+"Old Brompton Road, South Kensington",0.00001,2,2,5,2,0.00001
+"Old Ford Road, Bethnal Green",0.00001,1,1,1,1,0.00001
+"Old Montague Street, Whitechapel",3,2,1,3,2,0.00001
+"Old Quebec Street, Marylebone",1,3,4,13,8,0.00001
+"Old Street Station, St. Luke's",2,0.00001,2,2,1,0.00001
+"Ontario Street, Elephant & Castle",2,0.00001,0.00001,1,1,0.00001
+"Ormonde Gate, Chelsea",0.00001,2,2,0.00001,1,0.00001
+"Orsett Terrace, Bayswater",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Osiers Road, Wandsworth",1,0.00001,0.00001,0.00001,1,0.00001
+"Ossulston Street, Somers Town",1,8,1,2,1,0.00001
+"Oxford Road, Putney",0.00001,1,0.00001,0.00001,2,0.00001
+"Paddington Green, Paddington",0.00001,2,1,1,0.00001,0.00001
+"Paddington Street, Marylebone",0.00001,1,1,2,3,0.00001
+"Page Street, Westminster",0.00001,1,0.00001,1,1,0.00001
+"Palace Gardens Terrace, Notting Hill",0.00001,2,3,4,6,0.00001
+"Palissy Street, Shoreditch",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Pall Mall East, West End",0.00001,6,5,0.00001,0.00001,0.00001
+"Pancras Road, King's Cross",0.00001,2,3,0.00001,1,0.00001
+"Panton Street, West End",0.00001,14,4,31,8,0.00001
+"Park Lane , Hyde Park",0.00001,0.00001,2,1,0.00001,0.00001
+"Park Lane, Mayfair",3,3,5,5,2,0.00001
+"Park Road (Baker Street), The Regent's Park",1,5,4,4,4,1
+"Park Street, Bankside",0.00001,2,4,4,2,0.00001
+"Parkway, Camden Town",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Parson's Green , Parson's Green",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Parsons Green Station, Parsons Green",3,0.00001,0.00001,1,7,0.00001
+"Pembridge Villas, Notting Hill",0.00001,1,1,0.00001,2,0.00001
+"Penfold Street, Marylebone",1,7,0.00001,0.00001,11,0.00001
+"Pennington Street, Wapping",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Penywern Road, Earl's Court",1,0.00001,1,1,1,0.00001
+"Percival Street, Finsbury",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Phene Street, Chelsea",0.00001,5,8,1,2,0.00001
+"Phillimore Gardens, Kensington",0.00001,3,1,3,4,0.00001
+"Philpot Street, Whitechapel",5,3,0.00001,0.00001,2,0.00001
+"Pindar Street, Liverpool Street",0.00001,3,0.00001,1,0.00001,0.00001
+"Pitfield Street Central, Hoxton",1,1,0.00001,0.00001,3,0.00001
+"Pitfield Street North,Hoxton",0.00001,2,0.00001,0.00001,5,0.00001
+"Plough Terrace, Clapham Junction",1,2,1,1,2,0.00001
+"Podium, Queen Elizabeth Olympic Park",1,7,0.00001,0.00001,0.00001,0.00001
+"Pont Street, Knightsbridge",0.00001,1,6,2,2,0.00001
+"Porchester Place, Paddington",0.00001,3,4,5,12,0.00001
+"Portland Place, Marylebone",0.00001,1,5,0.00001,0.00001,0.00001
+"Portman Square, Marylebone",2,1,0.00001,1,1,0.00001
+"Pott Street, Bethnal Green",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Poured Lines, Bankside",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Preston's Road, Cubitt Town",1,1,0.00001,0.00001,3,0.00001
+"Prince Albert Road, The Regent's Park",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Prince Consort Road, Knightsbridge",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Prince of Wales Drive, Battersea Park",0.00001,0.00001,1,2,2,0.00001
+"Princedale Road , Holland Park",0.00001,1,1,1,4,0.00001
+"Princes Square, Bayswater",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Pritchard's Road, Bethnal Green",1,0.00001,0.00001,0.00001,2,0.00001
+"Putney Bridge Station, Fulham",2,11,0.00001,1,5,0.00001
+"Putney Pier, Wandsworth",0.00001,3,1,0.00001,0.00001,0.00001
+"Queen Mary's, Mile End",0.00001,1,0.00001,0.00001,0.00001,1
+"Queen Mother Sports Centre, Victoria",0.00001,1,2,2,0.00001,0.00001
+"Queen Street 1, Bank",0.00001,6,8,7,2,0.00001
+"Queen Street 2, Bank",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Queen Victoria Street, St. Paul's",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Queen's Circus, Battersea Park",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Queen's Gate (Central), South Kensington",0.00001,7,1,12,11,0.00001
+"Queen's Gate (North), Kensington",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Queen's Gate (South), South Kensington",0.00001,1,2,2,2,0.00001
+"Queensdale Road, Shepherd's Bush",0.00001,1,1,2,7,0.00001
+"Queensway, Kensington Gardens",0.00001,0.00001,0.00001,5,2,0.00001
+"Ram Street, Wandsworth",3,1,0.00001,2,5,0.00001
+"Rampayne Street, Pimlico",0.00001,5,2,3,13,0.00001
+"Ranelagh Gardens, Fulham",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Rathbone Street, Fitzrovia",0.00001,2,0.00001,5,4,0.00001
+"Ravenscourt Park Station, Hammersmith",0.00001,3,1,9,3,0.00001
+"Reardon Street, Wapping",3,3,1,1,3,0.00001
+"Rectory Square, Stepney",0.00001,0.00001,2,0.00001,0.00001,0.00001
+"Red Lion Square, Holborn",2,7,7,11,4,0.00001
+"Red Lion Street, Holborn",2,1,2,2,4,0.00001
+"Regent's Row , Haggerston",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Richmond Way, Shepherd's Bush",0.00001,1,0.00001,1,6,0.00001
+"Rifle Place, Avondale",0.00001,1,0.00001,0.00001,2,0.00001
+"Risinghill Street, Angel",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"River Street , Clerkenwell",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Riverlight North, Nine Elms",0.00001,1,0.00001,3,2,0.00001
+"Riverlight South, Nine Elms",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Rodney Road , Walworth",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Roscoe Street, St. Luke's",0.00001,2,2,5,7,0.00001
+"Rotherhithe Roundabout, Rotherhithe",0.00001,3,0.00001,0.00001,1,0.00001
+"Royal Avenue 1, Chelsea",4,4,1,1,35,0.00001
+"Royal College Street, Camden Town",0.00001,1,0.00001,0.00001,2,0.00001
+"Russell Gardens, Olympia",0.00001,1,0.00001,2,1,0.00001
+"Russell Square Station, Bloomsbury",0.00001,2,0.00001,0.00001,1,1
+"Sackville Street, Mayfair",1,2,0.00001,6,32,0.00001
+"Sail Street, Vauxhall",0.00001,1,1,0.00001,1,0.00001
+"Salmon Lane, Limehouse",1,1,0.00001,0.00001,6,0.00001
+"Saltoun Road, Brixton",0.00001,8,0.00001,3,5,0.00001
+"Sancroft Street, Vauxhall",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Sandilands Road, Walham Green",1,3,0.00001,1,13,0.00001
+"Saunders Ness Road, Cubitt Town",0.00001,1,1,0.00001,2,0.00001
+"Scala Street, Fitzrovia",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Sea Containers, South Bank",0.00001,4,0.00001,0.00001,1,0.00001
+"Sedding Street, Sloane Square",2,2,0.00001,2,3,0.00001
+"Selby Street, Whitechapel",0.00001,2,1,0.00001,1,0.00001
+"Serpentine Car Park, Hyde Park",0.00001,5,0.00001,0.00001,0.00001,0.00001
+"Seville Street, Knightsbridge",0.00001,0.00001,0.00001,2,0.00001,0.00001
+"Seymour Place, Marylebone",0.00001,5,1,4,13,0.00001
+"Shadwell Station, Shadwell",2,6,1,0.00001,5,0.00001
+"Sheepcote Lane, Battersea",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Shepherd's Bush Road North, Shepherd's Bush",0.00001,1,0.00001,4,3,0.00001
+"Shoreditch Court, Haggerston",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Shoreditch High Street, Shoreditch",2,4,0.00001,8,8,0.00001
+"Shoreditch Park, Hoxton",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"Shouldham Street, Marylebone",0.00001,0.00001,2,0.00001,0.00001,0.00001
+"Sidney Road, Stockwell",1,0.00001,1,0.00001,3,0.00001
+"Silverthorne Road, Battersea",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Simpson Street, Clapham Junction",1,3,0.00001,5,12,0.00001
+"Sirdar Road, Avondale",0.00001,1,0.00001,0.00001,1,0.00001
+"Sloane Avenue, Knightsbridge",0.00001,3,1,4,35,0.00001
+"Smith Square, Westminster",0.00001,0.00001,2,0.00001,1,0.00001
+"Snow Hill, Farringdon",1,3,0.00001,0.00001,0.00001,0.00001
+"Snowsfields, London Bridge",0.00001,1,0.00001,4,4,0.00001
+"Soho Square , Soho",3,3,3,4,15,2
+"Somerset House, Strand",0.00001,1,0.00001,0.00001,0.00001,1
+"Sopwith Way, Battersea Park",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"South Audley Street, Mayfair",0.00001,1,8,2,3,0.00001
+"South Bermondsey Station, Bermondsey",0.00001,2,0.00001,1,4,0.00001
+"South Kensington Station, South Kensington",4,4,0.00001,9,7,0.00001
+"South Lambeth Road, Vauxhall",0.00001,2,0.00001,3,1,0.00001
+"South Parade, Chelsea",0.00001,1,2,1,6,0.00001
+"South Park, Sands End",0.00001,2,0.00001,0.00001,0.00001,0.00001
+"South Wharf Road, Paddington",1,0.00001,1,0.00001,3,0.00001
+"Southern Grove, Bow",1,26,2,0.00001,0.00001,0.00001
+"Southerton Road, Hammersmith",0.00001,2,0.00001,1,0.00001,0.00001
+"Southwark Station 1, Southwark",2,2,0.00001,1,3,0.00001
+"Southwark Station 2, Southwark",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Southwick Street, Paddington",0.00001,2,2,2,1,0.00001
+"Spanish Road, Clapham Junction",0.00001,2,1,0.00001,1,0.00001
+"Spencer Park, Wandsworth Common",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"St John's Crescent, Brixton",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"St Martins Close, Camden Town",0.00001,4,0.00001,0.00001,0.00001,0.00001
+"St Mary's Hospital, Paddington",2,5,0.00001,4,6,0.00001
+"St. Bride Street, Holborn",1,2,1,3,0.00001,0.00001
+"St. George Street, Mayfair",0.00001,2,1,1,7,0.00001
+"St. George's Square, Pimlico",1,2,4,4,7,0.00001
+"St. James's Square, St. James's",0.00001,2,7,3,19,0.00001
+"St. John's Park, Cubitt Town",1,1,0.00001,0.00001,1,0.00001
+"St. John's Road, Clapham Junction",6,8,0.00001,0.00001,14,0.00001
+"St. John's Wood Church, The Regent's Park",0.00001,3,1,1,4,0.00001
+"St. John's Wood Road, St. John's Wood",0.00001,2,5,0.00001,0.00001,0.00001
+"St. Katharine's Way, Tower",0.00001,5,0.00001,5,3,0.00001
+"St. Luke's Church, Chelsea",0.00001,1,0.00001,1,2,0.00001
+"St. Mark's Road, North Kensington",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"St. Martin's Street, West End",0.00001,0.00001,1,1,0.00001,0.00001
+"St. Mary & St. Michael Church, Stepney",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"St. Mary Axe, Aldgate",2,10,3,1,2,1
+"St. Peter's Terrace, Fulham",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Stainsby Road , Poplar",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Stamford Street, South Bank",0.00001,1,0.00001,3,0.00001,0.00001
+"Stanhope Gate, Mayfair",0.00001,0.00001,1,2,0.00001,0.00001
+"Stanley Grove, Battersea",0.00001,1,0.00001,1,1,0.00001
+"Star Road, West Kensington",1,0.00001,0.00001,1,0.00001,0.00001
+"Stebondale Street, Cubitt Town",0.00001,2,1,1,3,0.00001
+"Stephendale Road, Sands End",1,1,0.00001,0.00001,7,0.00001
+"Stepney Green Station, Stepney",2,1,0.00001,5,5,0.00001
+"Stewart's Road, Wandsworth Road",0.00001,3,0.00001,0.00001,3,0.00001
+"Stonecutter Street, Holborn",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Store Street, Bloomsbury",0.00001,0.00001,3,0.00001,0.00001,0.00001
+"Storey's Gate, Westminster",0.00001,14,10,0.00001,1,0.00001
+"Strata, Elephant & Castle",1,0.00001,1,7,1,0.00001
+"Stratford Station, Stratford",4,5,0.00001,10,25,0.00001
+"Sugden Road, Clapham",1,3,2,7,10,0.00001
+"Sumner Place, South Kensington",0.00001,0.00001,6,3,6,0.00001
+"Sun Street, Liverpool Street",1,5,0.00001,5,1,0.00001
+"Surrey Lane, Battersea",1,0.00001,0.00001,0.00001,2,0.00001
+"Sutton Street, Shadwell",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Tachbrook Street, Victoria",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Tallis Street, Temple",0.00001,1,0.00001,1,0.00001,0.00001
+"Tanner Street, Bermondsey",0.00001,3,1,4,3,0.00001
+"Tate Modern, Bankside",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Tavistock Place, Bloomsbury",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Tavistock Street, Covent Garden",0.00001,10,3,18,12,0.00001
+"Taviton Street, Bloomsbury",0.00001,0.00001,4,0.00001,0.00001,3
+"Temple Gardens, Temple",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Teviot Street, Poplar",0.00001,1,0.00001,0.00001,1,0.00001
+"The Blue, Bermondsey",4,1,0.00001,1,2,0.00001
+"The Guildhall, Guildhall",0.00001,2,2,1,0.00001,0.00001
+"The Metropolitan, Portobello",0.00001,0.00001,1,0.00001,1,0.00001
+"The Tennis Courts, The Regent's Park",0.00001,7,0.00001,0.00001,0.00001,0.00001
+"The Vale, Chelsea",0.00001,6,8,10,25,0.00001
+"Theobald's Road , Holborn",0.00001,2,1,1,10,1
+"Thorndike Close, West Chelsea",0.00001,2,0.00001,0.00001,4,0.00001
+"Timber Lodge, Queen Elizabeth Olympic Park",0.00001,9,0.00001,0.00001,0.00001,0.00001
+"Tooley Street, Bermondsey",4,9,2,10,3,0.00001
+"Torrens Street, Angel",2,1,0.00001,2,2,0.00001
+"Tower Gardens , Tower",1,7,2,1,3,0.00001
+"Tower Wharf, Bermondsey",0.00001,1,0.00001,0.00001,4,0.00001
+"Trebovir Road, Earl's Court",0.00001,0.00001,2,0.00001,1,0.00001
+"Triangle Car Park, Hyde Park",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Turquoise Island, Notting Hill",0.00001,2,1,2,56,0.00001
+"Twig Folly Bridge, Mile End",0.00001,7,0.00001,1,0.00001,0.00001
+"Tyers Gate, Bermondsey",0.00001,1,0.00001,4,0.00001,0.00001
+"Tysoe Street, Clerkenwell",0.00001,0.00001,0.00001,4,2,0.00001
+"Union Street, The Borough",0.00001,0.00001,1,1,0.00001,0.00001
+"Upcerne Road, West Chelsea",0.00001,1,0.00001,0.00001,1,0.00001
+"Upper Bank Street, Canary Wharf",0.00001,4,0.00001,1,1,0.00001
+"Upper Richmond Road, Putney",0.00001,0.00001,0.00001,2,1,0.00001
+"Usk Road, Clapham Junction",0.00001,1,0.00001,0.00001,2,0.00001
+"Vauxhall Bridge , Pimlico",0.00001,7,1,0.00001,1,0.00001
+"Vauxhall Cross, Vauxhall",0.00001,2,0.00001,2,3,0.00001
+"Vauxhall Street, Vauxhall",0.00001,0.00001,0.00001,0.00001,1,0.00001
+"Vicarage Crescent, Battersea",0.00001,0.00001,1,0.00001,0.00001,0.00001
+"Vicarage Gate, Kensington",0.00001,1,5,0.00001,2,0.00001
+"Victoria Park Road, Hackney Central",0.00001,2,1,0.00001,0.00001,0.00001
+"Victoria Rise, Clapham Common",0.00001,6,2,0.00001,0.00001,0.00001
+"Victory Place, Walworth",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Walmer Road, Avondale",0.00001,0.00001,2,1,4,0.00001
+"Walnut Tree Walk, Vauxhall",0.00001,2,0.00001,1,3,0.00001
+"Walworth Square, Walworth",2,0.00001,1,2,4,0.00001
+"Wandsworth Rd, Isley Court, Wandsworth Road",0.00001,5,0.00001,0.00001,2,0.00001
+"Wandsworth Town Station, Wandsworth",1,2,0.00001,0.00001,2,0.00001
+"Wapping High Street, Wapping",0.00001,0.00001,1,1,0.00001,0.00001
+"Wapping Lane, Wapping",0.00001,1,0.00001,0.00001,3,0.00001
+"Wardour Street, Soho",0.00001,0.00001,2,9,4,0.00001
+"Warren Street Station, Euston",4,3,6,4,3,0.00001
+"Warwick Avenue Station, Maida Vale",0.00001,1,2,5,5,0.00001
+"Warwick Road, Olympia",1,0.00001,2,3,5,0.00001
+"Warwick Row, Westminster",0.00001,0.00001,1,2,5,0.00001
+"Warwick Square, Pimlico",0.00001,0.00001,1,0.00001,3,0.00001
+"Waterloo Place, St. James's",0.00001,2,4,0.00001,0.00001,0.00001
+"Waterloo Road, South Bank",2,0.00001,0.00001,0.00001,0.00001,0.00001
+"Waterloo Station 1, Waterloo",1,0.00001,0.00001,0.00001,0.00001,0.00001
+"Waterloo Station 3, Waterloo",0.00001,1,0.00001,0.00001,0.00001,0.00001
+"Watney Market, Stepney",2,2,0.00001,0.00001,12,0.00001
+"Webber Street , Southwark",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"Wellington Arch, Hyde Park",0.00001,1,3,1,2,0.00001
+"Wellington Road, St. John's Wood",1,1,2,1,8,0.00001
+"Wellington Row, Bethnal Green",0.00001,3,0.00001,2,12,0.00001
+"Wells Street, Fitzrovia",2,3,1,10,17,0.00001
+"Wendon Street, Old Ford",0.00001,8,0.00001,0.00001,2,0.00001
+"West Kensington Station, West Kensington",0.00001,0.00001,0.00001,0.00001,2,0.00001
+"West Smithfield Rotunda, Farringdon",1,2,5,0.00001,0.00001,0.00001
+"Westbourne Grove, Bayswater",1,3,0.00001,7,12,0.00001
+"Westbourne Park Road, Portobello",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Westbridge Road, Battersea",2,0.00001,0.00001,5,3,0.00001
+"Westferry Circus, Canary Wharf",0.00001,3,0.00001,0.00001,1,0.00001
+"Westferry DLR, Limehouse",0.00001,2,0.00001,1,0.00001,0.00001
+"Westfield Ariel Way, White City",2,3,0.00001,5,27,0.00001
+"Westfield Southern Terrace ,Shepherd's Bush",0.00001,1,0.00001,7,24,0.00001
+"Westminster Bridge Road, Elephant & Castle",0.00001,0.00001,0.00001,1,3,0.00001
+"Westminster Pier, Westminster",1,4,3,0.00001,2,0.00001
+"Westminster University, Marylebone",2,2,1,0.00001,6,0.00001
+"William IV Street, Strand",0.00001,5,6,7,5,0.00001
+"Windsor Terrace, Hoxton",1,1,0.00001,1,5,0.00001
+"Woodstock Grove, Shepherd's Bush",4,3,1,0.00001,12,0.00001
+"Woodstock Street, Mayfair",0.00001,1,3,4,22,0.00001
+"World's End Place, West Chelsea",0.00001,3,0.00001,2,7,0.00001
+"Wormwood Street, Liverpool Street",9,3,1,3,1,0.00001
+"Wren Street, Holborn",0.00001,1,7,0.00001,0.00001,0.00001
+"Wright's Lane, Kensington",0.00001,0.00001,0.00001,1,0.00001,0.00001
+"Wynne Road, Stockwell",1,0.00001,0.00001,0.00001,6,0.00001
+"York Hall, Bethnal Green",0.00001,1,0.00001,1,0.00001,1
+"York Way, Kings Cross",1,0.00001,0.00001,1,1,0.00001
